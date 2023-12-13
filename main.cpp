@@ -13,5 +13,8 @@ int main() {
     int sum = num1 + num2;
     printf("Sum: %d\n", sum);
 
+    int diff = num1 - num2;
+    printf("Diff: %d\n", diff);
+
     return 0;
 }
