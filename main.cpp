@@ -10,5 +10,8 @@ int main() {
 
     printf("Enter: %d and %d\n", num1, num2);
 
+    int sum = num1 + num2;
+    printf("Sum: %d\n", sum);
+
     return 0;
 }
