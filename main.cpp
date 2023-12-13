@@ -16,5 +16,8 @@ int main() {
     int diff = num1 - num2;
     printf("Diff: %d\n", diff);
 
+    int div = num1 / num2;
+    printf("Div: %d\n", div);
+
     return 0;
 }
